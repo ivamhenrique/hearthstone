@@ -1,4 +1,4 @@
-package com.github.ivamhenrique.hearthstone.data
+package com.github.ivamhenrique.hearthstone.di
 
 import com.github.ivamhenrique.hearthstone.data.network.AuthInterceptor
 import com.github.ivamhenrique.hearthstone.data.repositories.HearthstoneApi
