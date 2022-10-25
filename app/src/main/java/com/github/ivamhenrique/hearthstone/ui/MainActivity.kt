@@ -1,7 +1,8 @@
-package com.github.ivamhenrique.hearthstone
+package com.github.ivamhenrique.hearthstone.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.github.ivamhenrique.hearthstone.R
 import com.github.ivamhenrique.hearthstone.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
